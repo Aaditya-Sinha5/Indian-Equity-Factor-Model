@@ -1,4 +1,4 @@
-# #1 — Multi-Factor Equity Model + Portfolio Construction Backtester
+# Multi-Factor Equity Model + Portfolio Construction Backtester
 
 Systematic equity investing and portfolio construction framework for Nifty 500 stocks using 10 years of historical market and fundamental data.
 
